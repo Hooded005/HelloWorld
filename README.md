@@ -1,4 +1,5 @@
 # HelloWorld
 ## Assignment1
 ### Hi! I am Sean Botha
-*John 3:16*
+*Proverbs 24:16*
+For though the righteous may fall, they get up every time
